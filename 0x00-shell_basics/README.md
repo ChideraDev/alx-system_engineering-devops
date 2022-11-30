@@ -5,3 +5,4 @@ delete directory
 move to one directory upper
 show all content
 check type of file
+create a symbolic link
