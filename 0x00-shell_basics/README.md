@@ -1,1 +1,2 @@
-I am learning devops
+Display the contents list of your current directory
+Display the contents list of your current directory in long format
