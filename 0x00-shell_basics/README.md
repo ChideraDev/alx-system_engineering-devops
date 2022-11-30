@@ -4,3 +4,4 @@ Move directory to another directory
 delete directory
 move to one directory upper
 show all content
+check type of file
