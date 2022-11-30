@@ -3,3 +3,4 @@ creates directory in another directory
 Move directory to another directory
 delete directory
 move to one directory upper
+show all content
