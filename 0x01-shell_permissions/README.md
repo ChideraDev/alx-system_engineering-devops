@@ -10,3 +10,4 @@ gives every permisson to user except group owner and owner
 changes mode to -rwxr-x-wx 1
 changes hello mode to mode in olleh
 gives permisson to sub directories
+creates a new directory
