@@ -9,3 +9,4 @@ create a symbolic link
 copies html file from current working directory to parent directory
 created uppercase copy file
 delete files that end with ~
+made multiple directories
