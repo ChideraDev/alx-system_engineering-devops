@@ -7,3 +7,4 @@ show all content
 check type of file
 create a symbolic link
 copies html file from current working directory to parent directory
+created uppercase copy file
