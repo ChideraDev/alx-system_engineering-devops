@@ -6,3 +6,4 @@ creates an empty file
 gives execute permission to user
 gives execute permisson to owner and group owner and gives read permission to users 
 gives execute permission to everybody
+gives every permisson to user except group owner and owner
