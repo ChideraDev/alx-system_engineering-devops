@@ -8,3 +8,4 @@ gives execute permisson to owner and group owner and gives read permission to us
 gives execute permission to everybody
 gives every permisson to user except group owner and owner
 changes mode to -rwxr-x-wx 1
+changes hello mode to mode in olleh
