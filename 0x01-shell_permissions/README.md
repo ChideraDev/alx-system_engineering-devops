@@ -12,3 +12,4 @@ changes hello mode to mode in olleh
 gives permisson to sub directories
 creates a new directory
 changes group owner
+changes user and group owner of directory and subdirectories
