@@ -14,3 +14,4 @@ creates a new directory
 changes group owner
 changes user and group owner of directory and subdirectories
 changes user and group name of a file
+changes ownershipp of file only if is owned by a paticular owner 
