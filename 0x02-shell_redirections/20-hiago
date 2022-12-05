@@ -1,2 +1,2 @@
- tr 'cC' 
-#!/bin/bash
+tr -d Cc
+#!/bin/bash 
