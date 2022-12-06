@@ -4,3 +4,4 @@ Add /action to the PATH
 prints global variables
 lists all local variables and environment variables, and functions
 creates a variable
+creates an enviroment variable
