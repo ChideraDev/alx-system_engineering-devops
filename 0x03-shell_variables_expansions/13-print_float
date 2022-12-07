@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM = perl -e 'print 435.06 + 357.57'
+printf '%2f\n' $NUM
