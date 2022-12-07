@@ -11,3 +11,4 @@ displays the result of BREATH to the power LOVE
 converts BINARY variable from base 2 to base 10
 prints a number with two decimal places
 counts the number of directories in the PATH variable
+prints all possible combinations of two letters, except oo
