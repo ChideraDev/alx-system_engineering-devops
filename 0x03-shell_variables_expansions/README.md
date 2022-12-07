@@ -9,3 +9,4 @@ prints the result of the addition of 128 with the value stored in the environmen
 prints the result of POWER divided by DIVIDE
 displays the result of BREATH to the power LOVE
 converts BINARY variable from base 2 to base 10
+prints a number with two decimal places
