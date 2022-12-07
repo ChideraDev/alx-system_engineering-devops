@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM = $((435.06+357.57)) | bc
+echo $NUM = awk '{print 435.06 + 357.57}'
