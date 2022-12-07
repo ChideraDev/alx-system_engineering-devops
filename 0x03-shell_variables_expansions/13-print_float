@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM = awk '{print 435.06 + 357.57}'
+echo $NUM = perl -e 'print 435.06 + 357.57'
